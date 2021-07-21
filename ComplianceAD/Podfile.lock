@@ -1,0 +1,40 @@
+PODS:
+  - Ads-CN (3.7.0.5):
+    - Ads-CN/BUAdSDK (= 3.7.0.5)
+  - Ads-CN/BUAdSDK (3.7.0.5):
+    - Ads-CN/BUFoundation
+    - Ads-CN/Domestic
+  - Ads-CN/BUFoundation (3.7.0.5)
+  - Ads-CN/Domestic (3.7.0.5)
+  - BaiduMobAdSDK (4.771)
+  - GDTMobSDK (4.12.61):
+    - GDTMobSDK/GDTMobSDK (= 4.12.61)
+  - GDTMobSDK/GDTMobSDK (4.12.61)
+  - Masonry (1.1.0)
+  - MBProgressHUD (1.2.0)
+
+DEPENDENCIES:
+  - Ads-CN (= 3.7.0.5)
+  - BaiduMobAdSDK (= 4.771)
+  - GDTMobSDK (= 4.12.61)
+  - Masonry
+  - MBProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - Ads-CN
+    - BaiduMobAdSDK
+    - GDTMobSDK
+    - Masonry
+    - MBProgressHUD
+
+SPEC CHECKSUMS:
+  Ads-CN: abc24f64036d761a41b821ad5602616134377def
+  BaiduMobAdSDK: b6bd114a7b4ccc21efb9b5b7d735682b986ada10
+  GDTMobSDK: 63a094e9c02bb01213902d7cdf2389c149660a03
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+
+PODFILE CHECKSUM: 8a3608dd89f424f1f3df798f629402b052278eb3
+
+COCOAPODS: 1.10.1

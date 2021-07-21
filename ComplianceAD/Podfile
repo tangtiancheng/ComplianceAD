@@ -1,0 +1,18 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+platform :ios, '9.0'
+
+target 'ComplianceAD' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  pod 'Ads-CN','3.7.0.5'
+  pod 'BaiduMobAdSDK','4.771'
+  pod 'GDTMobSDK','4.12.61'
+  
+  pod 'Masonry'
+  pod 'MBProgressHUD'
+  # Pods for ComplianceAD
+
+end
